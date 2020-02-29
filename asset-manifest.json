@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Hyeokjjun-Lee/Nonflix/static/js/main.e8f98de1.chunk.js",
+    "main.js.map": "/Hyeokjjun-Lee/Nonflix/static/js/main.e8f98de1.chunk.js.map",
+    "runtime-main.js": "/Hyeokjjun-Lee/Nonflix/static/js/runtime-main.7ed72379.js",
+    "runtime-main.js.map": "/Hyeokjjun-Lee/Nonflix/static/js/runtime-main.7ed72379.js.map",
+    "static/js/2.2dd9c464.chunk.js": "/Hyeokjjun-Lee/Nonflix/static/js/2.2dd9c464.chunk.js",
+    "static/js/2.2dd9c464.chunk.js.map": "/Hyeokjjun-Lee/Nonflix/static/js/2.2dd9c464.chunk.js.map",
+    "index.html": "/Hyeokjjun-Lee/Nonflix/index.html",
+    "precache-manifest.8115c513b38d44d5fea5391a332d7279.js": "/Hyeokjjun-Lee/Nonflix/precache-manifest.8115c513b38d44d5fea5391a332d7279.js",
+    "service-worker.js": "/Hyeokjjun-Lee/Nonflix/service-worker.js",
+    "static/js/2.2dd9c464.chunk.js.LICENSE": "/Hyeokjjun-Lee/Nonflix/static/js/2.2dd9c464.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed72379.js",
+    "static/js/2.2dd9c464.chunk.js",
+    "static/js/main.e8f98de1.chunk.js"
+  ]
+}
